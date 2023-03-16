@@ -24,3 +24,8 @@ kafka_exporter
 # Test configuration
 test/
 .DS_Store
+
+#deploy
+deploy/prod
+deploy/test
+
